@@ -1,0 +1,24 @@
+Eles sao fundamentais na programação, pois permitem a 
+comparação entre variáveis. Usados para estabelecer 
+relações entre valores, os operadores relacionais 
+retornam valores booleanos (1 para verdadeiro e 0 para falso).
+Eles são essenciais para a tomada de decisões em programas,
+mas, aqui, vamos focar o uso dos operadores relacionais sem o 
+emprego de estruturas de controle como if ou while.
+
+
+Principais operadores relacionais
+
+Os operadores relacionais disponíveis na linguagem C são:
+
+ 
+
+a > b (maior que)
+a < b (menor que)
+a >= b (maior ou igual a)
+a <= b (menor ou igual a)
+a == b (igual a)
+a != b (diferente de)
+ 
+
+Esses operadores são usados para comparar dois operandos, retornando 1 se a comparação for verdadeira e 0 se for falsa.
